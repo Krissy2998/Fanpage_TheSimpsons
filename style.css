@@ -1,0 +1,83 @@
+*{box-sizing: border-box;
+word-spacing: normal;
+line-height: normal;
+}
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: yellow;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      color: blue;
+      margin: auto;
+      text-align: center;
+      padding-bottom: 2rem;
+    }
+    
+    main {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 0 20px;
+    }
+    
+    img {
+      width: 350px;
+      height: auto;
+      float: left;
+      margin-right: 50px;
+      padding: 3rem;
+
+    }
+    
+    p {
+      margin-top: 0;
+    }
+
+    .container {
+        width: 100%;
+        overflow: auto;
+      }
+
+
+    body {
+        background-color: rgb(118, 180, 224);
+    }
+    
+    #MainPhoto {
+        width: 100%;
+    }
+
+    .HomerSimpson {
+        display: grid;
+    }
+
+    .MargeSimpson {
+        display: grid;
+    }
+
+    .BartSimpson{
+        display: grid;
+    }
+
+    .LisaSimpson {
+        display: grid;
+    }
+
+    .MaggieSimpson {
+        display: grid;
+    }
+
+    button{
+        margin-left: 300px;
+    }
+
+    footer{
+        margin-left: 540px;
+    }
